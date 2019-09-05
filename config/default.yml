@@ -2570,6 +2570,11 @@ Style/DocumentationMethod:
     - 'test/**/*'
   RequireForNonPublicMethods: false
 
+Style/DotSpace:
+  Description: 'TODO: Write a description of the cop.'
+  Enabled: true
+  VersionAdded: '0.75'
+
 Style/DoubleCopDisableDirective:
   Description: 'Checks for double rubocop:disable comments on a single line.'
   Enabled: true
